@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Roller Derby Timer</string>
+    <string name="jam_time_placeholder">02:00</string>
+    <string name="period_time_placeholder">30:00</string>
+    <string name="jam_placeholder">Jam #1</string>
+    <string name="jam_number">Jam #%1$d</string>
+    <string name="period_1">Period #1</string>
+    <string name="period_2">Period #2</string>
+    <string name="halftime">Halftime</string>
+    <string name="start_jam">Start\nJam</string>
+    <string name="stop_jam">Stop\nJam</string>
+    <string name="thirty_seconds">30:00:00</string>
+    <string name="reset_bout">Reset Bout</string>
+    <string name="go_to_30">Go to 30 secs</string>
+    <string name="go_to_5">Go to 5 secs</string>
+    <string name="official_timeout_button">Official\ntimeout</string>
+    <string name="team_timeout_button">Team\ntimeout</string>
+    <string name="emergency_stop_button">Emergency\nstop</string>
+    <string name="official_timeout">Official timeout</string>
+    <string name="team_timeout">Team timeout</string>
+    <string name="emergency_stop">Emergency stop</string>
+    <string name="timeout_placeholder">01:00</string>
+
+</resources>
