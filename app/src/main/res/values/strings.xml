@@ -20,5 +20,13 @@
     <string name="team_timeout">Team timeout</string>
     <string name="emergency_stop">Emergency stop</string>
     <string name="timeout_placeholder">01:00</string>
+    <string name="jam_timer">Jam Timer</string>
+    <string name="twenty_seven_five">27/5</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="counter_initial">0</string>
 
 </resources>

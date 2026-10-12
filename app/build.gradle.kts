@@ -19,10 +19,6 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    buildFeatures {
-        viewBinding = true
-    }
-
     buildTypes {
         release {
             optimization {
@@ -37,6 +33,8 @@ android {
     }
     buildFeatures {
         compose = true
+        viewBinding = true
+
     }
 }
 
@@ -57,7 +55,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
-    implementation("androidx.constraintlayout:constraintlayout:2.2.2")
+    implementation(libs.androidx.constraintlayout)
     // To use constraintlayout in compose
-    implementation("androidx.constraintlayout:constraintlayout-compose:1.1.2")
+    implementation(libs.androidx.constraintlayout.compose)
 }

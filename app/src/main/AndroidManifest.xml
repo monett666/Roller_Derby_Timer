@@ -23,6 +23,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".JamTimerActivity"
+            android:exported="false"
+            android:label="@string/jam_timer"
+            android:theme="@style/Theme.RollerDerbyTimer"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".TwentySevenFiveActivity"
+            android:exported="false"
+            android:label="@string/twenty_seven_five"
+            android:theme="@style/Theme.RollerDerbyTimer"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
