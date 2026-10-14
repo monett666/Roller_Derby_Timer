@@ -25,4 +25,13 @@
         android:padding="16dp"
         android:layout_marginTop="16dp" />
 
+    <Button
+        android:id="@+id/penaltyBoxButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/penalty_box_timer"
+        android:textSize="20sp"
+        android:padding="16dp"
+        android:layout_marginTop="16dp" />
+
 </LinearLayout>

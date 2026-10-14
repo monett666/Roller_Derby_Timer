@@ -35,6 +35,12 @@
             android:label="@string/twenty_seven_five"
             android:theme="@style/Theme.RollerDerbyTimer"
             android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".PenaltyBoxTimerActivity"
+            android:exported="false"
+            android:label="@string/penalty_box_timer"
+            android:theme="@style/Theme.RollerDerbyTimer"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>

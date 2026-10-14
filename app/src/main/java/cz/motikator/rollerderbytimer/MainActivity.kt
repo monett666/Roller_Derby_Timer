@@ -21,5 +21,9 @@ class MainActivity : ComponentActivity() {
         binding.twentySevenFiveButton.setOnClickListener {
             startActivity(Intent(this, TwentySevenFiveActivity::class.java))
         }
+
+        binding.penaltyBoxButton.setOnClickListener {
+            startActivity(Intent(this, PenaltyBoxTimerActivity::class.java))
+        }
     }
 }

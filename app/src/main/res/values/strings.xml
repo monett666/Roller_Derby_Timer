@@ -28,5 +28,10 @@
     <string name="plus">+</string>
     <string name="minus">-</string>
     <string name="counter_initial">0</string>
+    <string name="penalty_box_timer">Penalty Box Timer</string>
+    <string name="resume_all">Resume All</string>
+    <string name="restart_all">Restart All</string>
+    <string name="stop_all">Stop All</string>
+    <string name="plus_30">+30</string>
 
 </resources>
